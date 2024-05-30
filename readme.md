@@ -25,8 +25,12 @@
 ## 폴더구조는 
 ![폴더구조](./img/tree.PNG)
 
-8. 실행은 windowAPP.py
+8. 실행은 windowAPP_feat_Humanoid_tts.py
 
 ## 프로그램 실행 결과는 
 ![실행결과](./img/result.PNG)
 
+##  이 프로그램은 인식 결과에 따라서 휴머노이드 로봇에게 특정 행동을 하도록 한다. 
+##  tts를 이용해서 음성 출력을 하도록 하였다.  
+![실행결과](./img/control.png)
+프로그램 실행 결과는 
